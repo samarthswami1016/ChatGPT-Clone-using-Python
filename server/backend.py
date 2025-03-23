@@ -9,7 +9,7 @@ import os
 from server.config import special_instructions
 
 # Configure Gemini API
-genai.configure(api_key=os.getenv("AIzaSyB8Q36jKGFMtdHjBuXGZgskGi-jfsvnxb0") or "AIzaSyB8Q36jKGFMtdHjBuXGZgskGi-jfsvnxb0")  # Replace with your actual API key
+genai.configure(api_key=os.getenv("YOUR_API_KEY") or "YOUT_API_KEY")  # Replace with your actual API key
 model = genai.GenerativeModel("gemini-1.5-pro")
 
 class Backend_Api:
