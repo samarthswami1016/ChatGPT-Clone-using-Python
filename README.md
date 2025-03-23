@@ -1,7 +1,7 @@
 ## ChatGPT Clone
 feel free to improve the code / suggest improvements
 
-<img width="1470" alt="image" src="">
+<img width="1470" alt="image" src="https://github.com/samarthswami1016/ChatGPT-Clone-using-Python/blob/main/images/Demo.png">
 
 
 ## Getting Started
